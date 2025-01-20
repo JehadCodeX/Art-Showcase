@@ -1,0 +1,28 @@
+body{
+    background-color: #f5f5dc;
+}
+
+#title_html{
+  font-family: "Playwrite IN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+  text-align: center;
+  color: #777;
+  text-shadow: 10px 10px 10px;
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    color:#777;
+    text-shadow: 10px 10px 10px;
+}
+img{
+    display: block;
+    margin: auto;
+    box-shadow: 10px 10px 20px;
+    border-style: dashed;
+    border-radius: 25%;
+    border-width: 5px;
+    border-color:burlywood;
+}
